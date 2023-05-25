@@ -28,6 +28,11 @@
     </userPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.Aldersea_May25_2023__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Account.Onboarding__c</field>
         <readable>true</readable>
     </fieldPermissions>
