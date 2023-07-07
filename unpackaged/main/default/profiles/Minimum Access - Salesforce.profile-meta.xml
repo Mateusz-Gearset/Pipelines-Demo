@@ -51,4 +51,9 @@
         <field>Account.X2023_July_05__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.X2023_July_07__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
 </Profile>
