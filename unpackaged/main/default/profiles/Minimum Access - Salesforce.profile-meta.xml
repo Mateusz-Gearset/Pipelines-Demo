@@ -46,4 +46,14 @@
         <field>Account.HandoverNotes_3__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Event.Mubeena_E_280720223__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Task.Mubeena_E_280720223__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
 </Profile>
