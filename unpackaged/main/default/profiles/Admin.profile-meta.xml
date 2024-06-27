@@ -13,7 +13,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Account.HandoverNotes2__c</field>
+        <field>Account.HandoverNotes2024Feb08__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
