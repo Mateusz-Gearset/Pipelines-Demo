@@ -224,10 +224,20 @@
         <formFactor>Small</formFactor>
         <type>Default</type>
     </actionOverrides>
-    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <compactLayoutAssignment>Sales_Escalations</compactLayoutAssignment>
     <enableFeeds>true</enableFeeds>
-    <enableHistory>false</enableHistory>
+    <enableHistory>true</enableHistory>
     <externalSharingModel>Private</externalSharingModel>
+    <profileSearchLayouts>
+        <fields>ACCOUNT.NAME</fields>
+        <fields>ACCOUNT.SITE</fields>
+        <fields>ACCOUNT.PHONE1</fields>
+        <fields>CORE.USERS.ALIAS</fields>
+        <fields>ACCOUNT.ADDRESS1_STREET</fields>
+        <profileName>Standard User</profileName>
+    </profileSearchLayouts>
+    <recordTypeTrackFeedHistory>false</recordTypeTrackFeedHistory>
+    <recordTypeTrackHistory>false</recordTypeTrackHistory>
     <searchLayouts>
         <customTabListAdditionalFields>ACCOUNT.NAME</customTabListAdditionalFields>
         <customTabListAdditionalFields>ACCOUNT.ADDRESS1_CITY</customTabListAdditionalFields>
