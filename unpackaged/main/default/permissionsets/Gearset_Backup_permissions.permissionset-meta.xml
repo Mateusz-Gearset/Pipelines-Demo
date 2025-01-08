@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Permissions to allow you to set up Gearset Backup, while making sure all your org&#39;s metadata and data are being successfully backed up.</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Gearset Backup permissions</label>
+</PermissionSet>
