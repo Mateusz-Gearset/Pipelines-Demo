@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>X2025_March_07_Test1__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Testing what happens when I promote this field towards INT first, but then merge first another PR that will be promoted after this one. Which PR will show on the &quot;Recent promotion history tag&quot; first?</description>
+    <externalId>false</externalId>
+    <label>2025_March_07_Test1</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>
